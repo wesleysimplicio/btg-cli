@@ -1,4 +1,4 @@
-![btg-cli — visão geral do projeto](https://v3b.fal.media/files/b/0a9b9c64/eVTeb5wgZMzMppdB19vwZ_OBOB0cbP.png)
+![btg-cli — hero com identidade da empresa e integrações com agentes](https://d2p7pg.cachecloud.net/output/30398cb8-f673-47fd-b00a-d64d3ea23e3f-u1_b05b5429-8fbc-4620-8159-a2786b22ea18.jpeg)
 
 # btg-cli 🏦
 
